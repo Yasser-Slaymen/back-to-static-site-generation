@@ -1,5 +1,5 @@
 # building Static webSite Generation with Sveltekit
-*## Opdracht:
+* ##  Opdracht:
 De website die je gebouwd heb maakt tot nu toe gebruik van server side rendering. Elke keer dat een bezoeker van de website een pagina bezoekt wordt een request naar de server gedaan en rendered de server de betreffende pagina alvorens een response naar de browser van de eindgebruiker te sturen. Aangezien de server de data uit een API moet ophalen (via bijv. een headless cms), kan het even duren voordat de pagina gerendered is. Om de website efficiënter te maken gaan we de website van te voren renderen zodat er na een request van een bezoeker alleen maar statische HTML, CSS en JavaScript hoeft worden teruggestuurd en we dus de build fase overslaan.
 ## We Love Web
 
