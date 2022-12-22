@@ -1,4 +1,4 @@
-#start building your static website with Svelte and
+# start building your static website with Svelte and
 ## We Love Web
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/90189815/205488279-1064c0a9-d95b-491b-bd45-f107adae5428.png)
@@ -21,6 +21,7 @@ Dit repository voor Fdnd we love web . Hierbij wordden er Interviewschema bekend
 
 
 ## 🧭Installatie & Gebruik
+```
 * Cloning the repository
 git clone git@github.com:Yasser-Slaymen/lose-your-head-the-client-case.git
 * Moving to the folder
@@ -29,6 +30,7 @@ cd lose-your-head-the-client-case
 npm install
 * Run local server
 npm run start
+```
 
 ## 🧭 Bronnen
 
