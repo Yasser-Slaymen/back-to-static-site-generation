@@ -1,4 +1,4 @@
-# start building your static website with Svelte and
+# building Static webSite Generation with Svelte and
 ## We Love Web
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/90189815/205488279-1064c0a9-d95b-491b-bd45-f107adae5428.png)
