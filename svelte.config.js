@@ -1,6 +1,5 @@
 import preprocess from "svelte-preprocess";
 import adapter from '@sveltejs/adapter-static';
-import postcss from "postcss";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -11,15 +10,16 @@ const config = {
 			fallback: null
 		}),
 	},
-	preprocess: [
-		preprocess({
-		  postcss: true,
-		}),
-		
-	  ],
+	
 
 
 };
 
 
 export default config;
+// preprocess: [
+	// 	preprocess({
+	// 	  postcss: true,
+	// 	}),
+		
+	//   ],
