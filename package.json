@@ -20,5 +20,9 @@
 		"typescript": "^4.9.3",
 		"vite": "^4.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"postcss": "^8.4.20",
+		"postcss-load-config": "^4.0.1"
+	}
 }
